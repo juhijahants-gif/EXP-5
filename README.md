@@ -19,7 +19,7 @@ CIRCUIT DIAGRAM:
 
 LINE REGULATION:
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/eccf60d5-1426-4b16-8bd6-7c2cc8df631d" />
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/fb8f80b6-ccd0-4536-985d-a174a472f95f" />
+<img width="859" height="471" alt="Screenshot 2026-02-27 193344" src="https://github.com/user-attachments/assets/e261610a-7edc-430f-a765-bf06e9c11a16" />
 
 
 LOAD REGULATION:
